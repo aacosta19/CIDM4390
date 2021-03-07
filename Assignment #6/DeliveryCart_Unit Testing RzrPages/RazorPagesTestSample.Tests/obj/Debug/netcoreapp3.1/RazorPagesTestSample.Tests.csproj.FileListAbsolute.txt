@@ -1,0 +1,5 @@
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing RzrPages\RazorPagesTestSample.Tests\obj\Debug\netcoreapp3.1\RazorPagesTestSample.Tests.csprojAssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing RzrPages\RazorPagesTestSample.Tests\obj\Debug\netcoreapp3.1\RazorPagesTestSample.Tests.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing RzrPages\RazorPagesTestSample.Tests\obj\Debug\netcoreapp3.1\RazorPagesTestSample.Tests.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing RzrPages\RazorPagesTestSample.Tests\obj\Debug\netcoreapp3.1\RazorPagesTestSample.Tests.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing RzrPages\RazorPagesTestSample.Tests\obj\Debug\netcoreapp3.1\RazorPagesTestSample.Tests.MvcApplicationPartsAssemblyInfo.cache

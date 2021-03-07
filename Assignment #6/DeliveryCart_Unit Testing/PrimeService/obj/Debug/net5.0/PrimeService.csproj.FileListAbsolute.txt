@@ -1,0 +1,24 @@
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.deps.json
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.dll
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\ref\PrimeService.dll
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.pdb
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.dll
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\ref\PrimeService.dll
+C:\Users\aaron\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.pdb
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\bin\Debug\net5.0\PrimeService.deps.json
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\bin\Debug\net5.0\PrimeService.dll
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\bin\Debug\net5.0\ref\PrimeService.dll
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\bin\Debug\net5.0\PrimeService.pdb
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\PrimeService.dll
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\ref\PrimeService.dll
+C:\Users\aaron\OneDrive\Documents\WTAMU Spring 2021\CIDM 4390\Projects\Assignment #6\DeliveryCart_Unit Testing\PrimeService\obj\Debug\net5.0\PrimeService.pdb

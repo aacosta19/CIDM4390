@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\aaron\\OneDrive\\Documents\\WTAMU Spring 2021\\CIDM 4390\\Projects\\Assignment #6\\DeliveryCart_Unit Testing RzrPages\\RazorPagesTestSample.Tests\\RazorPagesTestSample.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\aaron\\OneDrive\\Documents\\WTAMU Spring 2021\\CIDM 4390\\Projects\\Assignment #6\\DeliveryCart_Unit Testing RzrPages\\RazorPagesTestSample.Tests\\RazorPagesTestSample.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\aaron\\OneDrive\\Documents\\WTAMU Spring 2021\\CIDM 4390\\Projects\\Assignment #6\\DeliveryCart_Unit Testing RzrPages\\RazorPagesTestSample.Tests\\RazorPagesTestSample.Tests.csproj",
+        "projectName": "RazorPagesTestSample.Tests",
+        "projectPath": "c:\\Users\\aaron\\OneDrive\\Documents\\WTAMU Spring 2021\\CIDM 4390\\Projects\\Assignment #6\\DeliveryCart_Unit Testing RzrPages\\RazorPagesTestSample.Tests\\RazorPagesTestSample.Tests.csproj",
+        "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\aaron\\OneDrive\\Documents\\WTAMU Spring 2021\\CIDM 4390\\Projects\\Assignment #6\\DeliveryCart_Unit Testing RzrPages\\RazorPagesTestSample.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Diagnostics.TraceSource": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.11, 3.1.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
